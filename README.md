@@ -1,2 +1,4 @@
 # Equilimod
-A modding framework for Equilinox
+A modding framework for Equilinox.
+
+# **CURRENTLY UNDER CONSTRUCTION - PLEASE CHECK BACK LATER FOR THE FULL RELEASE**
