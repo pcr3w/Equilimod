@@ -14,17 +14,17 @@ Equilimod is designed to be very easy to install, requiring only the Jar files f
 
 1. Download the Equilimod file from the official source (when one becomes available).
 
-2. Place the downloaded file in a folder, along with the original game file:
+2. Place the downloaded file in the Equilinox game folder (found in your Steam games folder - typically `C:\Program Files\Steam\steamapps\common`), along with the original game file:
 
-![](https://i.imgur.com/ZXhvMKw.png)
+![](https://i.imgur.com/myID2fp.png)
 
-3. Run the Equilimod file, selecting the Equilinox file from the popup that displays. When doing this, **make sure that you select the Equilinox file - not the Equilimod file**.
+3. Rename the Equilinox file to `Equilinox.jar` (on Windows this is `EquilinoxWindows.jar`), and rename the Equilimod file to what the Equilinox file used to be called (`EquilinoxWindows.jar` for Windows, `EquilinoxLinux.jar` for Linux, etc).
 
-![](https://i.imgur.com/BgkBIFr.png)
+![](https://i.imgur.com/Kip25vd.png)
 
-4. All of the necessary game files should have been set up and Equilinox should now have started. If nothing appeared to happen, check that you followed all of the instructions carefully.
+4. Launch the game as you would do normally so that Equilimod can set up the initial files. Once you close the game, the Equilinox folder should look something like this:
 
-![](https://i.imgur.com/i1VJJxe.png)
+![](https://i.imgur.com/Z7BE4JE.png)
 
 ***
 
