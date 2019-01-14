@@ -7,6 +7,8 @@ Equilimod is a modding framework for [Equilinox](http://www.indiedb.com/games/eq
 
 Currently, Equilimod is still very heavily under development, with many features having been left out for the time being. An early release should be available soon for those who wish to try the framework out.
 
+There are some examples available in the "Examples" folder, although unfortunately the formatting appears to have been messed up.
+
 ***
 
 ## Installation
