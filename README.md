@@ -1,11 +1,10 @@
 # Equilimod
-## Please note that I am currently working on the API and will release the API and more wiki content once I feel it has reached a certain standard. The current information here and in the wiki is out of date. 
-## Sorry for those who have been waiting for modding; hopefully you won't have to wait much longer.
+## A beta version of the framework can now be obtained from [the Equilimod Discord server](https://discord.gg/779RuNx).
 ![](https://i.imgur.com/IGtiPrl.png)
 
 Equilimod is a modding framework for [Equilinox](http://www.indiedb.com/games/equilinox), the nature simulation game currently being developed by [ThinMatrix](https://www.youtube.com/user/ThinMatrix/). It is designed to make modding as simple as possible, using JavaScript to allow modders to create their own species and biomes.
 
-Currently, Equilimod is still very heavily under development, with many features having been left out for the time being. An early release should be available soon for those who wish to try the framework out.
+Currently, Equilimod is still very heavily under development, with many features having been left out for the time being. An early beta release is now available in the Discord server for those who wish to try the framework out. Simply request to be a beta tester to gain access.
 
 There are some examples available in the "Examples" folder, although unfortunately the formatting appears to have been messed up.
 
